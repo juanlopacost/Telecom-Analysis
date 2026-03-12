@@ -22,7 +22,6 @@ El proyecto se desarrolló siguiendo un flujo de trabajo estructurado en 7 etapa
 
 ## 📂 Contenido del Repositorio
 * `Telecom_Analysis.ipynb`: Notebook con el desarrollo completo paso a paso, visualizaciones e *insights* generados en cada etapa.
-* `/data`: Carpeta con los archivos CSV utilizados (si aplica).
 
 ---
 **Sugerencia de uso:** Para reproducir el análisis localmente, asegúrate de contar con las librerías `pandas`, `seaborn` y `matplotlib` instaladas.
